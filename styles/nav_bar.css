@@ -1,0 +1,30 @@
+.nav-bar {
+    width: 100%;
+    text-align: center;
+}
+.nav-bar ul {
+    list-style: none;
+    font-size: 17px;
+    background-color: #eeeeee;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.nav-bar ul li {
+    display: inline;
+    padding: 1%;
+}
+.nav-bar li:after {
+
+    content:"|" ;
+    padding: 1%;
+    color: green;
+}
+.nav-bar ul li a {
+    text-decoration: none;
+    color: green;
+    padding: 1%;
+}
+.nav-bar ul li a:hover {
+     text-decoration: underline;
+     color: blue;
+ }

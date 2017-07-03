@@ -1,7 +1,7 @@
 /**
  * Created by Nazar on 22.06.2017.
  */
-window.onload = function(){
+/*window.onload = function(){
     var locationPage;
     function getPath() {
     var x = location.pathname;
@@ -13,7 +13,7 @@ getPath();
 function checkPage() {
     if (locationPage == "/Restaurant/index.html"){
         alert("Main Page");
-        var mainPage = document.getElementById("breadMain");
+        var mainPage = $('#breadMain');
         mainPage.style.color= "black";
         }
     if (locationPage == "/Restaurant/menu.html"){
@@ -24,6 +24,9 @@ function checkPage() {
 }
 checkPage();
 
-}
-var t;
-var m;
+}*/
+$(function () {
+    $(".nav-bar ul li a").click(function () {
+        this.css("background-color:yellow");
+    })
+})
