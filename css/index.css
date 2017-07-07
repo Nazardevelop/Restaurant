@@ -10,13 +10,29 @@
     width: 100%;
 }
 .text-inside-dish {
-    width: 25%;
+    width: 30%;
     position: absolute;
-    top: 40%;
-    left: 30%;
-}
-.text-inside-dish p{
+    top: 30%;
+    left: 25%;
     font-family: IndieFlower;
     font-size: 30px;
     font-size: 2.5vw;
+}
+.text-inside-dish p{
+    /*font-family: IndieFlower;
+    font-size: 30px;
+    font-size: 2.5vw;*/
+}
+.text-inside-dish ul {
+    list-style: square;
+    display: block;
+}
+.text-inside-dish ul a{
+    text-decoration: none;
+    color: #000;
+}
+.text-inside-dish ul a:hover{
+    font-size: 110%;
+    background-color: #eeeeee;
+    border: 1px dotted black;
 }
