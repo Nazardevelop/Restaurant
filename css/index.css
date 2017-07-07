@@ -1,0 +1,22 @@
+@font-face {
+    font-family: IndieFlower;
+    src: url(../fonts/IndieFlower.ttf);
+}
+.content {
+    width: 100%;
+    position: relative;
+}
+.content img {
+    width: 100%;
+}
+.text-inside-dish {
+    width: 25%;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+.text-inside-dish p{
+    font-family: IndieFlower;
+    font-size: 30px;
+    font-size: 2.5vw;
+}

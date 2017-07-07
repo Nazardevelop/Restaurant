@@ -1,10 +1,19 @@
+@font-face {
+    font-family: IndieFlower;
+    src: url(../fonts/IndieFlower.ttf);
+}
+body{
+    background-color: #eeeeee;
+}
 .nav-bar {
     width: 100%;
     text-align: center;
+    margin: 0;
 }
 .nav-bar ul {
     list-style: none;
-    font-size: 17px;
+    font-size: 20px;
+    font-size: 2.5vw;
     background-color: #eeeeee;
     padding-left: 20%;
     padding-right: 20%;
@@ -22,6 +31,7 @@
 .nav-bar ul li a {
     text-decoration: none;
     color: green;
+    font-family: IndieFlower;
     padding: 1%;
 }
 .nav-bar ul li a:hover {
