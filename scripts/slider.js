@@ -5,7 +5,8 @@
 $(function () {
 
     //configuration
-    var width = 720;
+    var width = $('#slider').outerWidth();
+    alert(width);
     var animationSpeed = 1000;
     var pause = 3000;
     var currentSlide = 1;
@@ -14,7 +15,11 @@ $(function () {
     var  $slider = $('#slider');
     var $slideContainer = $slider.find('.slides');
     var $slides = $slideContainer.find('.slide');
-
+    //if window width is changed
+    $(window).resize(function () {
+        width = $('#slider').outerWidth();
+        console.log(width);
+    });
     //setInterval
     // animate margin-left
     //if it is last slide, go to position 1 (0px)
@@ -26,10 +31,12 @@ $(function () {
           currentSlide++;
            if(currentSlide === $slides.length){
                currentSlide = 1;
+
                $slideContainer.css('margin-left', 0);
            }
        });
     },pause);
+
 }
 function stopSlider() {
     clearInterval(interval);
