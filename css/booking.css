@@ -1,0 +1,76 @@
+@font-face {
+    font-family: IndieFlower;
+    src: url(../fonts/IndieFlower.ttf);
+}
+.booking-head {
+    width: 100%;
+}
+.booking-head img {
+    width: 100%;
+    height: 200px;
+}
+.hall {
+    width: 100%;
+   // border: 1px dashed black;
+    font-family: IndieFlower;
+
+}
+.hall h2 {
+    text-align: center;
+    font-size: 40px;
+    font-size: 3vw;
+}
+.tables {
+    width: 100%;
+}
+.tables div {
+    text-align: center;
+    width: 30%;
+}
+.tables div img{
+    width: 100%;
+    height: 200px;
+}
+#table1 {
+    float: left;
+}
+#table2 {
+    float: left;
+    margin-left: 35%;
+}
+#table3 {
+    margin-left: 33%;
+}
+#table4 {
+    float: left;
+}
+#table5 {
+    //float: left;
+    margin-left: 65%;
+}
+#bar {
+    margin-left: 33%;
+}
+.door {
+    margin-left: 0%;
+    text-align: center;
+    float: left;
+    width: 100px;
+}
+.door img {
+    height: 100px;
+    width: 100%;
+}
+.restroom {
+    margin-right: 0;
+    float: right;
+    width: 200px;
+}
+.restroom img {
+    width: 50%;
+    height: 100px;
+    float: right;
+}
+.restroom h4{
+    float: left;
+}

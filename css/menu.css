@@ -1,0 +1,46 @@
+@font-face {
+    font-family: IndieFlower;
+    src: url(../fonts/IndieFlower.ttf);
+}
+
+.head-menu {
+    width: 100%;
+    height: 200px;
+}
+.head-menu img {
+    width: 100%;
+    height: 200px;
+}
+#foodGallery {
+    width: 100%;
+}
+.gallery-item {
+    width: 47%;
+    margin: 1%;
+    float: left;
+    border: 1px solid black;
+    font-family: IndieFlower, sans-serif;
+    font-size: 20px;
+    font-size: 2vw;
+}
+.gallery-item img {
+    width: 100%;
+    height: 400px;
+}
+.gallery-item p {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.gallery-item p:last-child{
+    margin-right: 1px;
+}
+
+@media only screen and (max-width: 700px) {
+    .gallery-item{
+        width: 100%;
+    }
+    .gallery-item img {
+        height: 200px;
+    }
+}

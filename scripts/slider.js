@@ -6,7 +6,7 @@ $(function () {
 
     //configuration
     var width = $('#slider').outerWidth();
-    alert(width);
+    /*alert(width);*/
     var animationSpeed = 1000;
     var pause = 3000;
     var currentSlide = 1;
