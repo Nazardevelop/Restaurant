@@ -26,11 +26,11 @@ body{
 
     content:"|" ;
     padding: 1%;
-    color: green;
+    color: black;
 }
 .nav-bar ul li a {
     text-decoration: none;
-    color: green;
+    color: black;
     font-family: IndieFlower;
     padding: 1%;
 }

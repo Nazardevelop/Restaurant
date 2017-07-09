@@ -2,12 +2,26 @@
     font-family: IndieFlower;
     src: url(../fonts/IndieFlower.ttf);
 }
+
+
 .content {
     width: 100%;
     position: relative;
 }
 .content img {
     width: 100%;
+}
+#scroll {
+    width: 5%;
+    height: 100px;
+    position: fixed;
+    border: none;
+    background: none;
+    display: none;
+
+}
+#scroll img {
+    width:100%;
 }
 .text-inside-dish {
     width: 30%;
