@@ -49,7 +49,12 @@
     margin-left: 65%;
 }
 #bar {
+    width: 30%;
+    text-align: center;
     margin-left: 33%;
+}
+#bar img {
+    height: 200px;
 }
 .door {
     margin-left: 0%;
