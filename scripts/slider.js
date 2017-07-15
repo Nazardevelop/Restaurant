@@ -18,6 +18,7 @@ $(function () {
     //if window width is changed
     $(window).resize(function () {
         width = $('#slider').outerWidth();
+        $slideContainer.css('margin-left', 0);
         console.log(width);
     });
     //setInterval

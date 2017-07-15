@@ -79,3 +79,9 @@
 .restroom h4{
     float: left;
 }
+.table p{
+    display: none;
+}
+.ordered p{
+    display: block;
+}

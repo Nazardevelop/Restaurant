@@ -20,6 +20,9 @@
     display: none;
 
 }
+#scroll:active {
+    animation-duration: 1s;
+}
 #scroll img {
     width:100%;
 }

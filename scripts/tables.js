@@ -1,7 +1,7 @@
 /**
  * Created by Nazar on 09.07.2017.
  */
- var CreateTable = (function() {
+/* var CreateTable = (function() {
     var tables = [];
 
     function onSuccess(json) {
@@ -11,7 +11,7 @@
         else {
             alert(tables);
             var str = JSON.stringify(tables);
-            /*$.post('tables.json',str);*/
+            $.post('tables.json',str);
             alert(str);
         }
     };
@@ -41,7 +41,7 @@
             });
           // a = tablesDiv;
         }
-        /*chekJson: function () {
+        chekJson: function () {
             $.get("tables.json",function () {
                 if (this.find('tables')){
                     alert("not empty");
@@ -52,18 +52,44 @@
                     } )
                 }
             })
-        }*/
+        }
     };
 }());
 $(function () {
     CreateTable.add();
-   /* $.get("tables.json",function () {
+   $.get("tables.json",function () {
         if (this.find('tables')){
             alert("not empty");
         }
         else {
             $.push
         }
-    })*/
+    })
 });
-//var a;
+var a;*/
+$(function () {
+Tables.fill();
+});
+var Tables = (function () {
+    var tablesArray = [];
+    return {
+    fill:function () {
+        $.ajax({
+            type:"GET",
+            url:'http://localhost:58993/api/values',
+            dataType: 'json',
+            success:onSuccess,
+            error:onError
+        });
+        function onSuccess(json) {
+            var obj = json;
+            a = obj;
+            console.log(obj)
+        };
+        function onError(error) {
+            console.log(error);
+        }
+    }
+    };
+}());
+var a;
