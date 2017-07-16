@@ -88,3 +88,8 @@
 #order {
     display: none;
 }
+@media only screen and (max-width: 1000px){
+    .hall {
+        width: 1000px;
+    }
+}
