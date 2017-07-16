@@ -85,3 +85,6 @@
 .ordered p{
     display: block;
 }
+#order {
+    display: none;
+}

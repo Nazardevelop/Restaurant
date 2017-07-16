@@ -1,0 +1,136 @@
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\ApplicationInsights.config
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\csc.exe
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\System.Collections.Immutable.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\vbc.exe
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\VBCSCompiler.exe
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\roslyn\VBCSCompiler.exe.config
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.dll.config
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.pdb
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Antlr3.Runtime.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.SqlServer.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Web.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.WindowsServer.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.ApplicationInsights.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.Web.Infrastructure.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Newtonsoft.Json.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Net.Http.Formatting.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Helpers.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.WebHost.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Mvc.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Optimization.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Razor.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Deployment.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Razor.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebGrease.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.SqlServer.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Web.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.WindowsServer.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.ApplicationInsights.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Newtonsoft.Json.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Net.Http.Formatting.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Helpers.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.WebHost.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Mvc.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Optimization.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Razor.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Deployment.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Razor.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\Antlr3.Runtime.pdb
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.csprojResolveAssemblyReference.cache
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.pdb
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Cors.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.Cors.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebApiContrib.Formatting.Jsonp.dll
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.Cors.xml
+c:\users\voldmaire\documents\visual studio 2015\Projects\WebAPI_Proj\WebAPI_Proj\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\ApplicationInsights.config
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\csc.exe
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\System.Collections.Immutable.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\System.Reflection.Metadata.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\vbc.exe
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\VBCSCompiler.exe
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\roslyn\VBCSCompiler.exe.config
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.dll.config
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebAPI_Proj.pdb
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Antlr3.Runtime.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.SqlServer.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Agent.Intercept.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.DependencyCollector.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Web.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.WindowsServer.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.ApplicationInsights.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.Web.Infrastructure.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Newtonsoft.Json.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Net.Http.Formatting.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Cors.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Helpers.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.Cors.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.WebHost.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Mvc.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Optimization.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Razor.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Deployment.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Razor.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebApiContrib.Formatting.Jsonp.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebGrease.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\EntityFramework.SqlServer.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.DependencyCollector.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.Web.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.AI.WindowsServer.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.ApplicationInsights.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.Cors.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Newtonsoft.Json.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Net.Http.Formatting.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Helpers.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Http.WebHost.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Mvc.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Optimization.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.Razor.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Deployment.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\System.Web.WebPages.Razor.xml
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\WebApiContrib.Formatting.Jsonp.pdb
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\bin\Antlr3.Runtime.pdb
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.csprojResolveAssemblyReference.cache
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.dll
+E:\courses_Front_End_EPAM\restaurant\WebAPI_Proj\WebAPI_Proj\obj\Debug\WebAPI_Proj.pdb
