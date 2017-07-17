@@ -4,10 +4,12 @@
 }
 .booking-head {
     width: 100%;
+    text-align: center;
 }
 .booking-head img {
     width: 100%;
-    height: 200px;
+    height: auto;
+    max-width: 1300px;
 }
 .hall {
     width: 100%;
@@ -80,6 +82,11 @@
     float: left;
 }
 .table p{
+    color: #ff0000;
+    font-size: 30px;
+    font-size: 3.5vw;
+    font-weight: bold;
+    margin: 0;
     display: none;
 }
 .ordered p{
@@ -87,6 +94,37 @@
 }
 #order {
     display: none;
+}
+.order-fields {
+    width: 100%;
+    display: block;
+    font-family: IndieFlower;
+    font-size: 20px;
+    font-size: 2.5vw;
+    margin-top: 10%;
+}
+.order-fields button {
+    float: right;
+    height: 100%;
+    background-color: brown;
+    border: 1px solid brown;
+    font-size: 20px;
+    font-size: 2.5vw;
+    font-family: IndieFlower;
+    margin-right: 40%;
+}
+.order-fields button:hover{
+    font-size: 110%;
+    background-color: red;
+    border: 1px dotted brown;
+}
+.order-fields input {
+    font-size: 20px;
+    font-size: 2.5vw;
+    font-family: IndieFlower;
+    width: 10%;
+    border: none;
+    margin-right: 0;
 }
 @media only screen and (max-width: 1000px){
     .hall {
