@@ -120,3 +120,18 @@ var BreadCrumb = (function() {
         }
     };
 })();*/
+$(function () {
+   var navBar = $('.nav-bar');
+
+   $(window).scroll(function () {
+       var scroll = $(window).scrollTop();
+       if(scroll > 200){
+           $(navBar).css('position','fixed');
+           $(navBar).css('top',0);
+       }
+       else {
+           $(navBar).css('position','static');
+       }
+   });
+
+});

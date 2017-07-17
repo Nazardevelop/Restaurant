@@ -12,6 +12,13 @@ $(function () {
             scrollEl.css("display", "none");
         }
     });
+    var divText = $('.text-inside-dish');
+    $(window).resize(function () {
+        var  screenWidth = $(window).outerWidth();
+        var topValue = screenWidth *  0.2;
+        var leftValue = screenWidth * 0.25;
+        divText.css('top',topValue);
+        divText.css('left', leftValue);
+    });
 
 });
-var b;

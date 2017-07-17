@@ -3,11 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title>About</title>
+    <link rel="stylesheet" href="css/about.css">
     <link rel="stylesheet" href="styles/nav_bar.css">
     <script src="libs/jquery-3.2.1.js"></script>
-    <!--<script src="scripts/bradcrumbs.js"></script>-->
+    <script src="scripts/nav_bar.js"></script>
+    <script src="js/about.js"></script>
+
+    <!--<script src="scrinav_bar.jss.js"></script>-->
 </head>
 <body>
+<div class="about-head">
+</div>
+
 <div  class="nav-bar">
     <ul id="navigationLinks">
         <li class="main-list">
@@ -26,5 +33,26 @@
 <div id="breadcrumbs">
 
 </div>
+<h2>Here we are</h2>
+<div id="map">
+
+</div>
+<script>
+    function initMap() {
+       var options = {
+            zoom:20,
+           center:{lat:50.449471,lng:30.460775}
+        }
+        var map = new google.maps.Map(document.getElementById('map'),options);
+        var marker = new google.maps.Marker({
+            position: options.center,
+            map: map
+        });
+    }
+
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBP8aXeIr1pJTn4Sn9T62aMmJDyoBSrBNo&callback=initMap"
+        async defer></script>
+<!-- AIzaSyBP8aXeIr1pJTn4Sn9T62aMmJDyoBSrBNo-->
 </body>
 </html>

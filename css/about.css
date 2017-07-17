@@ -1,0 +1,16 @@
+.about-head {
+    width: 100%;
+    height: 200px;
+    background-image: url(../images/about.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h2{
+    font-family: IndieFlower;
+    text-align: center;
+}
+#map {
+    margin-top: 60px;
+    height: 400px;
+    width: 100%;
+}

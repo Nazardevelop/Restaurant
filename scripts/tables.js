@@ -58,17 +58,8 @@ var Tables = (function () {
                                 data:tablesArray[k],
                                 success:function (data) {
                                     alert("You booked the table ");
-                                   // console.log(tablesArray[k]);
-                                       /* if (tablesArray[k].Id == $('.table')[l].attr('id').slice(5)){
-                                            $('.table')[l].addClass('ordered');
-                                        }*/
-                                   /* $('.table').each(function (m) {
-                                        if ($(this).attr('id').slice(5) == tablesArray[k]){
-                                            $(this).addClass("ordered");
-                                        }
-                                    });*/
 
-                                    alert($('.table').length);
+                                   // alert($('.table').length);
                                 },
                                 error:function (error) {
                                     console.log(error);

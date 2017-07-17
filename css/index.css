@@ -8,8 +8,11 @@
     width: 100%;
     position: relative;
     height: 750px;
-    background: url(../images/index-content-bg.jpg) no-repeat;
-    background-size: cover ;
+    //background: url(../images/index-content-bg.jpg) no-repeat;
+   // background-size: contain ;
+}
+.content img {
+    width: 100%;
 }
 #scroll {
     width: 5%;
@@ -20,9 +23,7 @@
     display: none;
 
 }
-#scroll:active {
-    animation-duration: 1s;
-}
+
 #scroll img {
     width:100%;
 }
@@ -52,4 +53,10 @@
     font-size: 110%;
     background-color: #eeeeee;
     border: 1px dotted black;
+}
+@media only screen and (max-width: 500px) {
+    .text-inside-dish {
+        font-size: 10px;
+        font-size: 1vw;
+    }
 }
