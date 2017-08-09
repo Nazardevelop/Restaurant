@@ -10,7 +10,17 @@ h2{
     text-align: center;
 }
 #map {
+    background-image: url(../images/retro-logo-for-a-restaurant_1020-946.jpg);
+    background-size: cover;
+    background-position: center;
     margin-top: 60px;
     height: 400px;
     width: 100%;
+}
+@media only screen and (min-width: 700px) {
+    #map {
+        background-size: 750px;
+        background-repeat: no-repeat;
+
+    }
 }
